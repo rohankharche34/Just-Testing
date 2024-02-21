@@ -1,2 +1,2 @@
 # Just-Testing
-First Git Repos
+First Git Repository
