@@ -42,6 +42,7 @@ int main() {
     int choice, value;
 
     while (1) {
+        printf("Hello");
         printf("\nMenu:\n");
         printf("1. Push\n");
         printf("2. Pop\n");
