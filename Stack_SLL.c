@@ -46,7 +46,7 @@ void menu() {
     s.top = NULL;
     int choice, data;
     while (1) {
-        printf("Hello");
+        printf("\nHello");
         printf("\nMenu:\n");
         printf("1. Push\n");
         printf("2. Pop\n");
