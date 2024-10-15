@@ -17,7 +17,7 @@ void push(struct stack *s,int d) {
 
 void pop(struct stack *s) {
     if (s-> top == -1)
-        printf("Empty stack.");
+        printf("Empty stack");
     else {
         int data;
         data = s-> a[s->top];
